@@ -1,2 +1,2 @@
-print("привет")
+print("привет, мама")
 print('hello')
